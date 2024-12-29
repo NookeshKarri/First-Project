@@ -1,6 +1,11 @@
 
 Testing Branches
 
+<<<<<<< HEAD
 change 1
 
 change 2
+=======
+
+change 1 for main
+>>>>>>> 61712c1 (change in main)
