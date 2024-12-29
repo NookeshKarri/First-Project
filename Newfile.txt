@@ -1,2 +1,8 @@
 
+<<<<<<< HEAD
 I am Nookesh and now not working feature1 branch  harsh's datbase currently in feature1 branch
+=======
+I am Nookesh and now working feature1 branch
+
+Hi i am editing this file from remote repository
+>>>>>>> 2ecd4650e689e549e0474b7cb405bb39eef032ee
