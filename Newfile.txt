@@ -1,9 +1,2 @@
 
-<<<<<<< HEAD
 I am Nookesh and now not working feature1 branch  harsh's datbase currently in feature1 branch
-=======
-I am Nookesh and now working feature1 branch  harsh's datbase currently in feature1 branch
-
-
-I am editing this file in main
->>>>>>> a75994267d1e144c28507d5293682d0365dd2b75
